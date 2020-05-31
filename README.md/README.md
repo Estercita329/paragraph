@@ -1,4 +1,4 @@
-# {Paragraph exercises}
+# Practice styling classes
 
 #### Exercises from Wed class
 
